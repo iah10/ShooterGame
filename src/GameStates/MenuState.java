@@ -131,7 +131,6 @@ public class MenuState extends GameState
 
 	@Override
 	public void restart() {
-		// TODO Auto-generated method stub
 		
 	}
 }
